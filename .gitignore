@@ -1,0 +1,12 @@
+*.tlog
+*.pdb
+*.user
+*.obj
+*.log
+*.iobj
+*.ipdb
+*.ilk
+*.idb
+*.db
+*.exe
+*.suo

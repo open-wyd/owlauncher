@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OpenWydLauncher", "src\OpenWydLauncher.vcxproj", "{6F715B69-1CF1-4069-BF73-3C0719C252BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F715B69-1CF1-4069-BF73-3C0719C252BA}.Debug|x86.ActiveCfg = Debug|Win32
+		{6F715B69-1CF1-4069-BF73-3C0719C252BA}.Debug|x86.Build.0 = Debug|Win32
+		{6F715B69-1CF1-4069-BF73-3C0719C252BA}.Release|x86.ActiveCfg = Release|Win32
+		{6F715B69-1CF1-4069-BF73-3C0719C252BA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E408AE1B-5781-4217-9B92-6837D7384615}
+	EndGlobalSection
+EndGlobal
