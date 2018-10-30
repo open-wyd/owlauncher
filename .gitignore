@@ -10,3 +10,5 @@
 *.db
 *.exe
 *.suo
+/.vs
+/src/serverlist.bin
